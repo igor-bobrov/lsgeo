@@ -25,6 +25,16 @@
 
 ➥ Operator-Seporator-User method
 
+➥ Standart apps:
+  kitty-term
+  neo-vim
+
+➥
+
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
+
+if u can help 》》》 write me in telegram(@TheSakari)
+
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
 

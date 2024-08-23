@@ -26,7 +26,9 @@
 ➥ Operator-Seporator-User method
 
 ➥ Standart apps:
+
   kitty-term
+
   neo-vim
 
 ➥

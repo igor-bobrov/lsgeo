@@ -41,6 +41,8 @@ if u can help 》》》 write me in telegram(@TheSakari)
 
 ➤ Pls read licence №1: https://github.com/igor-bobrov/lsgeo/blob/main/LICENSE
 
+|
+|
 
 ➤ You agree that we are not responsible for the consequences of
 
@@ -48,6 +50,8 @@ if u can help 》》》 write me in telegram(@TheSakari)
 
 ➤ 利用者は、以下の結果について当社が責任を負わないことに同意するものとします。
 
+|
+|
 
 ➤ We're up against the systemd: https://nosystemd.org/
 

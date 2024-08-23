@@ -37,6 +37,8 @@ if u can help 》》》 write me in telegram(@TheSakari)
 
 ⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻
 
+➤ Pls read licence №1: https://github.com/igor-bobrov/lsgeo/blob/main/LICENSE
+
 
 ➤ You agree that we are not responsible for the consequences of
 

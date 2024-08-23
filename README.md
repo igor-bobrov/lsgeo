@@ -47,9 +47,10 @@ if u can help 》》》 write me in telegram(@TheSakari)
 ➤ 利用者は、以下の結果について当社が責任を負わないことに同意するものとします。
 
 
+➤ We're up against the systemd: https://nosystemd.org/
+
 
 ♡ Folow us ♡
-
 
 ⠀⠀⠀⠀⣀⡤⢤⣄⠀⣠⡤⣤⡀
 

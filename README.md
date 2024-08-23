@@ -1,5 +1,5 @@
 # lsgeo
-LibraSecurityGeento fork Gentoo
+LibraSecurityGentoo fork Gentoo
 
 ██╗░░░░░░██████╗░██████╗░███████╗░█████╗░
 ██║░░░░░██╔════╝██╔════╝░██╔════╝██╔══██╗

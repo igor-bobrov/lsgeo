@@ -5,8 +5,6 @@ wget --continue https://distfiles.gentoo.org/releases/amd64/autobuilds/20240825T
 clear
 
 echo "made by sakari"
-chmod +x ~/lsgeo/SH/NameOS.sh
-~/lsgeo/SH/NameOS.she
 
 echo "Read devices:"
 ls -a /dev/sd?

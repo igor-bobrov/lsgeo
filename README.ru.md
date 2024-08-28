@@ -20,6 +20,9 @@
 - [Скачать минимальный ISO-образ](https://www.gentoo.org/downloads/)
 - [Файл ISO](https://distfiles.gentoo.org/releases/amd64/autobuilds/20240811T170405Z/install-amd64-minimal-20240811T170405Z.iso)
 
+### ➥ Через наш ПРОСТОЙ установщик
+- [Наш установщик]()
+
 ---
 
 ## ➤ Что вы получите

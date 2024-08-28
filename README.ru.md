@@ -21,7 +21,7 @@
 - [Файл ISO](https://distfiles.gentoo.org/releases/amd64/autobuilds/20240811T170405Z/install-amd64-minimal-20240811T170405Z.iso)
 
 ### ➥ Через наш ПРОСТОЙ установщик
-- [Наш установщик](https://github.com/igor-bobrov/lsgeo/SH/Formating-usb-device.sh)
+- [Наш установщик](https://github.com/igor-bobrov/lsgeo/raw/main/SH/Formating-usb-device.sh)
 
 ---
 

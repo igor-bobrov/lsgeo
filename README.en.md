@@ -19,6 +19,10 @@
 - [Download Minimal ISO Image](https://www.gentoo.org/downloads/)
 - [ISO File](https://distfiles.gentoo.org/releases/amd64/autobuilds/20240811T170405Z/install-amd64-minimal-20240811T170405Z.iso)
 
+### ➥ Through our SIMPLE installer
+- You will need to click on "Download raw file"
+- [Our installer](https://github.com/igor-bobrov/lsgeo/blob/main/SH/Formating-usb-device.sh)
+
 ---
 
 ## ➤ What You Will Get
